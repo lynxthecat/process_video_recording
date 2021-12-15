@@ -19,4 +19,4 @@ Once the script has created the intermediate video, the script requests the foll
 
 The script then extracts and encodes the video segment and once completed places the extracted video segment in the parent recording directory, creates a folder with the recording date in the parent recording directory, and places the original video files into that folder with the recording date. 
 
-*Multiple processing directories (e.g. Primary Queue, Secondary Queue, etc.) can be conveniently created for parallel processing of multiple sets of video files at once. In this case one copy of the script should be placed inside each of processing directory.  
+*Multiple processing directories (e.g. Primary Queue, Secondary Queue, etc.) can be conveniently created for parallel processing of multiple sets of video files at once. In this case, one copy of the script should be placed inside each of processing directory.  
