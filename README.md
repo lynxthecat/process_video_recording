@@ -5,7 +5,7 @@ Designed for use in the following way:
 
 * Create parent recording directory
 * Create processing directory inside parent recording directory*
-* Place script inside video processing directory
+* Place this script inside video processing directory
 * Copy video files needing processing into video processing directory
 * Execute the script
 
