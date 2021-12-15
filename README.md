@@ -4,9 +4,9 @@ Windows batch script to extract and encode video segment based on start and end 
 Designed for use in the following way:
 
 * Create parent recording directory
-* Create processing directory inside parent recording directory*
-* Place this script inside video processing directory
-* Copy video files needing processing into video processing directory
+* Create video processing directory inside parent recording directory*
+* Place this script inside the video processing directory
+* Copy video files needing processing into the video processing directory
 * Execute the script
 
 The script firstly combines the set of video files into a single video - an intermediate video. This video can then be manually opened to ascertain start and end times of desired video segment for extraction and processing. 
