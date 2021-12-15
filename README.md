@@ -1,5 +1,7 @@
 # process_video_recording
-Windows batch script that employs ffmpeg to extract and encode video segment based on start and end times of video recording from a set of video files such as those produced by GoPro devices and similar. The output is a single encoded video file. The use of this script helps automate the otherwise tedious process of entering the requisite commands manually, and facilitates consistency in respect of the folders and filenames of the original video files. 
+Windows batch script that employs ffmpeg to extract and encode video segment based on start and end times of video recording from a set of video files such as those produced by GoPro devices and similar. The output is a single encoded video file. 
+
+The use of this script helps automate the otherwise tedious process of entering the requisite commands manually, thus saving time, and facilitates consistency in respect of the folders and filenames of the original video files. 
 
 # Pre-Requisites
 
